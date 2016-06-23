@@ -5,7 +5,7 @@ A small stock control system created using Java Swing.
 
 This Application 'TechMart' was created in Java using 'NetBeans'. This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. All code is completely open-source but a reference to 'Milan Conhye' would be much appreciated. This application uses 'Derby' to power the programs database. and this library along with the drivers must be installed in order to modify the database records. 
 
-Within the files, you will notice that there is a file named 'Items'; this is where the derby database files are stored and can be imported through <b> Services --> Databases --> Properties --> Database Location </b>
+Within the files, you will notice that there is a file named 'Items'; this is where the derby database files are stored and can be imported through NetBeans: <b>Services --> Databases --> Properties --> Database Location</b>
 
 Another unknown file may be the 'Images' folder. This is where all the product images for the items are stored. The 'default images' folder is a backup of product images along with some application icons and default database records.
 
@@ -17,7 +17,7 @@ The first window that appears is the welcome screen. This window has the class n
 
 <i> Figure 1 - Welcome Screen </i>
 
-image here 
+![Welcome Screen](/Screenshots/0.png?raw=true "Welcome Screen")
 
 <h4>Purchase Items</h4>
 
@@ -25,13 +25,13 @@ Figure 2a shows the Shopping Menu which is also known as the “Purchase Item”
 
 <i> Figure 2a - Purchase Items </i>
 
-image here 
+![Purchase Items](/Screenshots/1.png?raw=true "Purchase Items") 
 
 Once the user has provided the item code and has clicked on Show Details, further details would be shown, such as the details of the product and the item preview. If the user decides to click the Add to Cart button, then the Cart dialog will appear with the items appended to the Table. The Total Sum is also calculated and displayed. As you can see below, multiple items can be added to the basket. From here, the user can remove items, add more items and proceed to checkout or even cancel the purchase by clicking on the Main Menu. Although all images are 100x100 for the products, I have also implemented a feature where if the authenticated user was to import an image size that was larger or smaller than the require size, it would automatically scale the image to a 100 x 100 image.
 
 <i> Figure 2b - Purchase Items </i>
 
-image here 
+![Purchase Items with Cart](/Screenshots/2.png?raw=true "Purchase Items with Cart") 
 
 <h4>Login Window</h4>
 
@@ -39,15 +39,15 @@ Once the user has clicked on the staff button, they would be prompted to a login
 
 <i> Figure 3a - Login Window </i>
 
-image here 
+![Login Window](/Screenshots/3.png?raw=true "Login Window") 
 
 <h4>Staff Menu</h4>
 
-Here, in the staff menu, they would able to open the catalog if they wish to see an overview of all the items. The user can update any items stored in the database by clicking on the 'Update Stock' button. The logout button would take the user back to the main menu. The Staff menu can be seen in Figure 3b. 
+Here, in the staff menu, they would able to open the catalog if they wish to see an overview of all the items. The user can update any items stored in the database by clicking on the 'Update Stock' button. The logout button would take the user back to the main menu. The Staff menu can be seen in Figure 3b.
 
 <i> Figure 3b - Staff Menu </i>
 
-image here 
+![Staff Menu](/Screenshots/4.png?raw=true "Staff Menu") 
 
 <h4>Catalogue</h4>
 
@@ -55,7 +55,7 @@ If the staff member were to click the catalog button, the window in 'Figure 4' w
 
 <i> Figure 4 - Catalogue </i>
 
-image here 
+![Catalogue](/Screenshots/5.png?raw=true "Catalogue") 
 
 <h4>Update Stock</h4>
 
@@ -63,7 +63,7 @@ Here they are able to add, edit and delete items from the database. If they wish
 
 <i> Figure 5a - Update Stock Menu </i>
 
-image here 
+![Update Stock Menu](/Screenshots/6.png?raw=true "Update Stock Menu") 
 
 <h4>Update Stock - Add Item</h4>
 
@@ -71,7 +71,7 @@ Here, the staff member would be able to add any item they wish. This form is pac
 
 <i> Figure 5b - Update Stock - Add Item </i>
 
-image here 
+![Update Stock - Add Item](/Screenshots/8.png?raw=true "Update Stock - Add Item") 
 
 <h4>Update Stock - Edit Item</h4>
 
