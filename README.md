@@ -71,7 +71,7 @@ Here, the staff member would be able to add any item they wish. This form is pac
 
 <i> Figure 5b - Update Stock - Add Item </i>
 
-![Update Stock - Add Item](/Screenshots/8.png?raw=true "Update Stock - Add Item") 
+![Update Stock - Add Item](/Screenshots/7.png?raw=true "Update Stock - Add Item") 
 
 <h4>Update Stock - Edit Item</h4>
 
@@ -79,7 +79,7 @@ This is the same layout as the Add Item, however, the item code is presented for
 
 <i> Figure 5c - Update Stock - Edit Item </i>
 
-image here 
+![Update Stock - Edit Item](/Screenshots/8.png?raw=true "Update Stock - Edit Item") 
 
 <h4>Update Stock - Delete Item</h4>
 
@@ -87,7 +87,7 @@ The staff member is also able to delete any item in stock. As seen below, they w
 
 <i> Figure 5d - Update Stock - Delete Item </i>
 
-image here 
+![Update Stock - Delete Item](/Screenshots/9.png?raw=true "Update Stock - Delete Item") 
 
 <h2> Errors, Bugs and Feedback </h2>
 
