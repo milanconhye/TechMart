@@ -1,4 +1,4 @@
-# TechMart v1.2
+# TechMart v1.3
 A small stock control system created using Java Swing.
 
 <h2><b>Note</b></h2>
