@@ -7,7 +7,7 @@ This Application 'TechMart' was created in Java using 'NetBeans'. This program w
 
 Within the files, you will notice that there is a file named 'Items'; this is where the derby database files are stored and can be imported through NetBeans: <b>Services --> Databases --> Properties --> Database Location</b>
 
-Another unknown file may be the 'Images' folder. This is where all the product images for the items are stored. The 'default images' folder is a backup of product images along with some application icons and default database records.
+Another unknown file may be the 'Images' folder. This is where all the product images for the items are stored. The 'default images' within this folder is a backup of product images along with some application icons and default database records.
 
 <h2>Operation</h2>
 
