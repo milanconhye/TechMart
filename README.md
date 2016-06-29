@@ -89,6 +89,6 @@ The staff member is also able to delete any item in stock. As seen below, they w
 
 ![Update Stock - Delete Item](/Screenshots/9.png?raw=true "Update Stock - Delete Item") 
 
-<h2> Errors, Bugs and Feedback </h2>
+<h2>Errors, Bugs and Feedback </h2>
 
 If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible. 
