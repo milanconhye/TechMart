@@ -1,6 +1,8 @@
 # TechMart v1.3
 A small stock control system created using Java Swing.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 <h2><b>Note</b></h2>
 
 This Application 'TechMart' was created in Java using 'NetBeans'. This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. All code is completely open-source but a reference to 'Milan Conhye' would be much appreciated. This application uses 'Derby' to power the programs database. and this library along with the drivers must be installed in order to modify the database records. 
