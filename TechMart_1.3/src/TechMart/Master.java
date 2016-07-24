@@ -13,6 +13,7 @@
 package TechMart;
 
 //Importing the necessary libraries provided by Java.
+import static TechMart.OSValidator.isWindows;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
@@ -71,6 +72,16 @@ public final class Master extends JFrame implements ActionListener {
     
     //This is the first class that will open and therefore this has a main class.
     public static void main(String[] args) {
+        
+        //Currently Windows is only supported due to layout issues.
+        
+        if (isWindows()) {
+            System.out.println("Windows is Supported");
+	} else {
+	    JOptionPane.showMessageDialog(null, "Although Java Nativly supports most Operating systems, this program only supports Windows due to layout issues in other systems.");
+            System.exit(0);
+	}
+        
         Master master = new Master();  
     }
     
