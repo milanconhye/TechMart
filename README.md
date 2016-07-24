@@ -11,6 +11,8 @@ Within the files, you will notice that there is a file named 'Items'; this is wh
 
 Another unknown file may be the 'Images' folder. This is where all the product images for the items are stored. The 'default images' within this folder is a backup of product images along with some application icons and default database records.
 
+Requirements: Any version of Windows 7+ with support the of NetFramework 4.0.
+
 <h2>Operation</h2>
 
 <h4>Welcome Screen</h4>
