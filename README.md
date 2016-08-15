@@ -1,7 +1,9 @@
 # TechMart v1.3
 A small stock control system created using Java Swing.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+The TechMart Application allows you to easily manage the products you sell at your store. It features a catalogue whereby a customer would be able to view all the items in your store as well purchasing them. TechMart also features an Employee Only Product management which is protected by a login and allows them to manage stock (Add, Edit and Delete). Add product images, automatic product deduction, validation rules and much more.
+
+TechMart is powered by an SQL database, you should have familiar knowledge if you would like to manage it from the developer end. Currently, the database is stored locally, so you should set up a remote database and change some of the configuration within stock data.  
 
 <h2><b>Note</b></h2>
 
@@ -93,6 +95,12 @@ The staff member is also able to delete any item in stock. As seen below, they w
 
 ![Update Stock - Delete Item](/Screenshots/9.png?raw=true "Update Stock - Delete Item") 
 
-<h2>Errors, Bugs and Feedback </h2>
+<h2>Errors, Bugs and Feedback</h2>
 
 If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible. 
+
+<h2>Licence and Agreement</h2>
+
+The software is provided "as is" and the author disclaims all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the author be liable for any special, direct, indirect, or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software. Please acknowledge and agree to this agreement before downloading and using this software. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
