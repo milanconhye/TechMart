@@ -101,7 +101,7 @@ If you come across any of those nasty little things, would like to contribute so
 
 <h2>Disclaimer</h2>
 
-This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. If you are a <b>University or College Student</b> and have a 'similar' or 'identical' coursework, please do not clone, modify or download this repository. Your coursework will automatically be penalized according to your universities plagiarism policy. Permission to upload this to GitHub has herby granted by the University of Greenwich - 29/09/2016. 
+This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. If you are a <b>University or College Student</b> and have a 'similar' or 'identical' coursework, please do not clone, modify or download this repository. Your coursework will automatically be penalized according to your universities plagiarism policy. Permission to upload this coursework to GitHub has herby granted by the University of Greenwich - 29/09/2016. 
 
 <h2>Licence and Agreement</h2>
 
