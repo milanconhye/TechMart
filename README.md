@@ -97,7 +97,11 @@ The staff member is also able to delete any item in stock. As seen below, they w
 
 <h2>Errors, Bugs and Feedback</h2>
 
-If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible. 
+If you come across any of those nasty little things, would like to contribute some ideas towards this project or even if you need some guidance - please do leave a comment and I will try my best to respond as fast as possible.
+
+<h2>Disclaimer</h2>
+
+This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. If you are a<b>University Student</b> and have a 'similar' or 'identical' coursework, please do not clone, modify or download this repository. Your coursework will automatically be penalized according to your universities plagiarism policy. Permission to upload this to GitHub has herby granted by the University of Greenwich - 29/09/2016. 
 
 <h2>Licence and Agreement</h2>
 
