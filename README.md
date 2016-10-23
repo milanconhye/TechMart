@@ -5,7 +5,7 @@ The TechMart Application allows you to easily manage the products you sell at yo
 
 TechMart is powered by an SQL database, you should have familiar knowledge if you would like to manage it from the developer end. Currently, the database is stored locally, so you should set up a remote database and change some of the configuration within the StockData class.  
 
-<h2>Requirements and Notes1</h2>
+<h2>Requirements and Notes</h2>
 
 This Application 'TechMart' was created in Java using 'NetBeans'. This program was originally submitted to the University of Greenwich and was used as a submission for a coursework. All code is completely open-source but a reference to 'Milan Conhye' would be much appreciated. This application uses 'Derby' to power the programs database and this library along with the drivers must be installed in order to modify the database records. 
 
